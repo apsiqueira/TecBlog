@@ -1,0 +1,152 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+   font-size: 1em;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+header{
+
+    background-color: #f7b600;
+    text-align: center;
+    padding: 15px;
+}
+#areaLogo{
+padding: 10px;
+
+}
+h1{
+color: #4e4e4e;
+
+}
+.branco{
+ color: white;
+
+}
+
+a{
+
+    text-decoration: none;
+}
+
+a:link, a:visited{
+color: #ffffff;
+padding: 8px 12px;
+
+}
+
+a:hover{
+    background: #ffffff;
+    color: #f7b600;
+    border-radius: 6px;
+    padding:5px;
+}
+#areaPrincipal{
+    width: 920px;
+    margin: 0 auto;
+
+
+
+}
+#main{
+    width: 600px;
+
+    float: left;
+   
+}
+#aside{
+    width: 240px;
+ 
+    float: right;
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 1000px;
+    margin-bottom: 10px;
+    
+}
+#rodape{
+
+    clear: both;
+    background-color: green;
+    text-align: center;
+    background: #ccc;
+    padding: 15px;
+}
+.imagemPrincipal{
+height: 300px;
+width: 580px;
+
+margin-bottom: 10px;
+}
+
+.leiaMais{
+  
+ color: #f7b600 ;
+
+}
+
+.leiaMais:hover{
+    color: white;
+    background:  #f7b600;
+    border-radius: 5px;
+    padding: 3px;
+   }
+   
+   #rodape{
+       margin-top: 10px;
+
+
+   }
+   h3{
+       color:  #f7b600;
+       text-shadow: #4e4e4e;
+       font-size: 1em;
+    
+
+   }
+   .dataPostagem{
+     font-size: 0.5em;
+     display: block;
+     
+     padding-bottom: 5px;
+   }
+   .postagem{
+       margin-top: 15px;
+}
+.conteudoLateral{
+margin-bottom: 20px;
+padding: 10px;
+}
+h4{
+color: #565656;
+background-color: #aaa8a8;
+text-align: center;
+
+}
+.conteudoLateral p{
+ font-size: 0.8em;
+
+}
+#postagemLateral{
+padding: 10px;
+padding: 10px;
+}
+
+#listaLateral{
+
+    list-style: none;
+}
+#listaLateral li a{
+ color: #565656;
+
+}
+#listaLateral li a:hover{
+    color:#f7b600;
+   
+   
+    
+   }
+   
